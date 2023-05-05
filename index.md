@@ -13,9 +13,14 @@ The project campaigningACC will attempt to identify commonalities and difference
 
 ## Publications and references
 
-1. Apostolakis, Th., Makridis, M., Kouvelas, A., Ampountolas, K., **Commercially implemented adaptive cruise control systems are not evil**, 102nd Annual Meeting of the Transportation Research Board (TRB 2023), Jan. 8-12, 2023, Washington, DC, USA.
-2. Apostolakis, Th., Makridis, M., Kouvelas, A., Ampountolas, K., **Energy-based assessment of commercial adaptive cruise control systems**, in Transportation Systems Technology and Integrated Management, R. K. Upadhyay, S. K. Sharma, V. Kumar, and H. Valera, Eds. London, UK: Springer Nature, 2023. DOI: [10.1007/978-981-99-1517-0_4](https://www.doi.org/10.1007/978-981-99-1517-0_4).
-3. Ampountolas, K., **The unscented Kalman filter for nonlinear parameter identification of adaptive cruise control systems**, IEEE Transactions on Intelligent Vehicles, Accepted, 2023. DOI: [10.1109/TIV.2023.3272660](https://www.doi.org/10.1109/TIV.2023.3272660)
+### References
+1. SAE International, 2018. J3016B: Taxonomy and definitions for terms related to driving automation systems for on-road motor vehicles. SAE International. url: https://www.sae.org/standards/content/j3016_201806.
+
+### Publications
+The following publications
+* Apostolakis, Th., Makridis, M., Kouvelas, A., Ampountolas, K., **Commercially implemented adaptive cruise control systems are not evil**, 102nd Annual Meeting of the Transportation Research Board (TRB 2023), Jan. 8-12, 2023, Washington, DC, USA.
+* Apostolakis, Th., Makridis, M., Kouvelas, A., Ampountolas, K., **Energy-based assessment of commercial adaptive cruise control systems**, in Transportation Systems Technology and Integrated Management, R. K. Upadhyay, S. K. Sharma, V. Kumar, and H. Valera, Eds. London, UK: Springer Nature, 2023. DOI: [10.1007/978-981-99-1517-0_4](https://www.doi.org/10.1007/978-981-99-1517-0_4).
+* Ampountolas, K., **The unscented Kalman filter for nonlinear parameter identification of adaptive cruise control systems**, IEEE Transactions on Intelligent Vehicles, Accepted, 2023. DOI: [10.1109/TIV.2023.3272660](https://www.doi.org/10.1109/TIV.2023.3272660)
 
 ## Support or Contact
 
