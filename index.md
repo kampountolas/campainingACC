@@ -18,7 +18,7 @@ The project campaigningACC will attempt to identify commonalities and difference
 ## Record, save, and upload vehicle trajectory data
 
 ## References
-1. SAE International, 2018. J3016B: Taxonomy and definitions for terms related to driving automation systems for on-road motor vehicles. SAE International. url: https://www.sae.org/standards/content/j3016_201806.
+1. SAE International, 2018. J3016B: Taxonomy and definitions for terms related to driving automation systems for on-road motor vehicles. SAE International. [url: https://www.sae.org/standards/content/j3016_201806](https://www.sae.org/standards/content/j3016_201806).
 
 ## Publications
 The following publications
