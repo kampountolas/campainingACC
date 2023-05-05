@@ -13,9 +13,9 @@ The project campaigningACC will attempt to identify commonalities and difference
 
 ## Publications and references
 
-1. xxx
-2. xxx
-3. yyy
+1. Apostolakis, Th., Makridis, M., Kouvelas, A., Ampountolas, K., “Commercially implemented adaptive cruise control systems are not evil,” 102nd Annual Meeting of the Transportation Research Board (TRB 2023), Jan. 8-12, 2023, Washington, DC, USA.
+2. Apostolakis, Th., Makridis, M., Kouvelas, A., Ampountolas, K., “Energy-based assessment of commercial adaptive cruise control systems,” in Transportation Systems Technology and Integrated Management, R. K. Upadhyay, S. K. Sharma, V. Kumar, and H. Valera, Eds. London, UK: Springer Nature, 2023. DOI: 10.1007/978-981-99-1517-0_4.
+3. Ampountolas, K., “The unscented Kalman filter for nonlinear parameter identification of adaptive cruise control systems,” IEEE Transactions on Intelligent Vehicles, Accepted. DOI: 10.1109/TIV.2023.3272660, 2023.
 
 ## Support or Contact
 
