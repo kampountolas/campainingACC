@@ -3,9 +3,9 @@
 **campaigningACC** is a collaborative research project between the [University of Thessaly (UTH)](https://www.uth.gr/en) (represented by the [Automatic Control and Autonomous Systems Laboratory](http://control.mie.uth.gr/)) and [ETH Zürich](https://www.ethz.ch) (represented by the [Institute for Transport Planning and Systems](https://www.ivt.ethz.ch)). The project is supported by the [Center of Research, Innovation and Excellence (CRIE)](https://www.uth.gr/en/research/units/center-research-innovation-and-excellence-crie) of the [University of Thessaly](https://www.uth.gr/en).
 
 The following people are involved in the project:
-1. Konstantinos Ampountolas (Associate Professor, Department of Mechanical Engineering, UTH)
-2. Michail Makridis (Senior Researcher, IVT, ETH Zürich)
-3. Anastastios Kouvelas (Director Traffic Engineering and Control, IVT, ETH Zürich)
+1. [Konstantinos Ampountolas](http://mie.uth.gr/Ampountolas.html) (Associate Professor, Department of Mechanical Engineering, UTH)
+2. [Michail Makridis](https://www.michailmakridis.com/) (Senior Researcher, IVT, ETH Zürich)
+3. [Anastastios Kouvelas](http://www.ivt.ethz.ch/en/people/profile.anastasios-kouvelas.html) (Director Traffic Engineering and Control, IVT, ETH Zürich)
 4. Theocharis Apostolakis (PhD candidate at UTH)
 
 ## Background
