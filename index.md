@@ -1,6 +1,12 @@
 # Welcome to campainingACC project
 
-**campaigningACC** is a collaborative research project between the [University of Thessaly](https://www.uth.gr/en) (represented by the [Automatic Control and Autonomous Systems Laboratory](http://control.mie.uth.gr/)) and [ETH Zürich](https://www.ethz.ch) (represented by the [Institute for Transport Planning and Systems](https://www.ivt.ethz.ch)). The project is supported by the [Center of Research, Innovation and Excellence (CRIE)](https://www.uth.gr/en/research/units/center-research-innovation-and-excellence-crie) of the [University of Thessaly](https://www.uth.gr/en).
+**campaigningACC** is a collaborative research project between the [University of Thessaly (UTH)](https://www.uth.gr/en) (represented by the [Automatic Control and Autonomous Systems Laboratory](http://control.mie.uth.gr/)) and [ETH Zürich](https://www.ethz.ch) (represented by the [Institute for Transport Planning and Systems](https://www.ivt.ethz.ch)). The project is supported by the [Center of Research, Innovation and Excellence (CRIE)](https://www.uth.gr/en/research/units/center-research-innovation-and-excellence-crie) of the [University of Thessaly](https://www.uth.gr/en).
+
+The following people are involved in the project:
+1. Konstantinos Ampountolas (Associate Professor at UTH, Director of )
+2. Michail Makridis (Senior Researcher at IVT)
+3. Anastastios Kouvelas (Director of 
+4. Theocharis Apostolakis (PhD candidate at UTH)
 
 ## Background
 Connected and automated vehicles (CAVs) promise to significantly improve road traffic. Connectivity and automation will come in different [deployment levels](https://www.aptiv.com/en/insights/article/what-are-the-levels-of-automated-driving) and the penetration rate of such vehicles on public roads is limited but constantly increasing. More specifically, most commercial vehicles sold today are equipped with [Advanced Driver Assistance Systems (ADAS)](https://en.wikipedia.org/wiki/Advanced_driver-assistance_systems) such as the [Adaptive Cruise Control (ACC)](https://en.wikipedia.org/wiki/Adaptive_cruise_control) or [Lane Keeping Assist System (LKAS)](https://www.hondainfocenter.com/2021/CR-V/Feature-Guide/Interior-Features/Lane-Keeping-Assist-System-LKAS/) that control the longitudinal and lateral position of the vehicle. Some vehicles already offer [autopilot](https://www.tesla.com/autopilot) functionalities mainly for motorways and soon for urban environments. Such systems are widely considered as predecessors of future fully autonomous driving systems. Their penetration rate in the fleet is constantly increasing, as well as their use, especially under freeway conditions. At the same time, limited information is openly available on how these systems operate and their differences depending on the vehicle manufacturer or model. This represents an important gap because as the number of ACC vehicles on the road increases, traffic dynamics on freeways may change accordingly, and new collective phenomena, which are only marginally known at present, could emerge.
@@ -11,12 +17,10 @@ The project campaigningACC will attempt to identify commonalities and difference
 
 ## Record, save, and upload vehicle trajectory data
 
-## Publications and references
-
-### References
+## References
 1. SAE International, 2018. J3016B: Taxonomy and definitions for terms related to driving automation systems for on-road motor vehicles. SAE International. url: https://www.sae.org/standards/content/j3016_201806.
 
-### Publications
+## Publications
 The following publications
 * Apostolakis, Th., Makridis, M., Kouvelas, A., Ampountolas, K., **Commercially implemented adaptive cruise control systems are not evil**, 102nd Annual Meeting of the Transportation Research Board (TRB 2023), Jan. 8-12, 2023, Washington, DC, USA.
 * Apostolakis, Th., Makridis, M., Kouvelas, A., Ampountolas, K., **Energy-based assessment of commercial adaptive cruise control systems**, in Transportation Systems Technology and Integrated Management, R. K. Upadhyay, S. K. Sharma, V. Kumar, and H. Valera, Eds. London, UK: Springer Nature, 2023. DOI: [10.1007/978-981-99-1517-0_4](https://www.doi.org/10.1007/978-981-99-1517-0_4).
