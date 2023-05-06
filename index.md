@@ -25,7 +25,7 @@ Phyphox is a free-to-use collection of tools that exploits the sensors present i
 
 **Caution:** It is important to select the minimum number of sensors because the more sensors are used the lower the data recording frequency will be.
 
-This [document]() describes in detail the necessary steps to record, save and upload vehicle trajectory data to the system. 
+Check out our [documentation]() that describes in detail the necessary steps to record, save and upload vehicle trajectory data to the system. 
 
 ## References
 1. SAE International, 2018. _J3016B: Taxonomy and definitions for terms related to driving automation systems for on-road motor vehicles_. **SAE International**. Available online: [https://www.sae.org/standards/content/j3016_201806](https://www.sae.org/standards/content/j3016_201806).
