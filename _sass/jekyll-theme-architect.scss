@@ -197,7 +197,7 @@ form {
   font-weight: normal;
   color: #474747;
   text-indent: 6px;
-  letter-spacing: -1px;
+  letter-spacing: -1.5px;
 }
 
 #main-content h1:before {
@@ -217,7 +217,7 @@ form {
 }
 #main-content h2:before {
   padding-right: 0.3em;
-  margin-left: -0.5em;
+  margin-left: -1.5em;
   content: "//";
   color: #9ddcff;
 }
@@ -234,7 +234,7 @@ form {
 
 #main-content h3:before {
   padding-right: 0.3em;
-  margin-left: -0.5em;
+  margin-left: -1.5em;
   content: "///";
   color: #9ddcff;
 }
