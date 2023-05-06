@@ -35,7 +35,7 @@ header h1 {
   width: 600px;
   margin-top: 0;
   margin-bottom: 0.2em;
-  font-size: 64px;
+  font-size: 72px;
   font-weight: normal;
   line-height: 1;
   color: #fff;
@@ -202,7 +202,7 @@ form {
 
 #main-content h1:before {
   padding-right: 0.3em;
-  margin-left: -1em;
+  margin-left: -0.5em;
   color: #9ddcff;
   content: "/";
 }
@@ -217,7 +217,7 @@ form {
 }
 #main-content h2:before {
   padding-right: 0.3em;
-  margin-left: -1.5em;
+  margin-left: -0.5em;
   content: "//";
   color: #9ddcff;
 }
@@ -234,7 +234,7 @@ form {
 
 #main-content h3:before {
   padding-right: 0.3em;
-  margin-left: -1.5em;
+  margin-left: -0.5em;
   content: "///";
   color: #9ddcff;
 }
@@ -250,7 +250,7 @@ form {
 
 h4:before {
   padding-right: 0.3em;
-  margin-left: -1em;
+  margin-left: -0.5em;
   content: "////";
   color: #9ddcff;
 }
@@ -264,7 +264,7 @@ h4:before {
 }
 h5:before {
   padding-right: 0.3em;
-  margin-left: -1em;
+  margin-left: -0.5em;
   content: "/////";
   color: #9ddcff;
 }
@@ -278,7 +278,7 @@ h5:before {
 }
 h6:before {
   padding-right: 0.3em;
-  margin-left: -1em;
+  margin-left: -0.5em;
   content: "//////";
   color: #9ddcff;
 }
