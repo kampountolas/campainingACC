@@ -1,6 +1,6 @@
-# theme: minima
 title: campainingACC
 description: Driving behaviour of human-driven and partially automated vehicles
 google_analytics: [Your Google Analytics tracking ID]
 show_downloads: false
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
+theme: minima
