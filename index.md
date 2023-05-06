@@ -2,7 +2,7 @@
 
 **campaigningACC** is a collaborative research project between the [University of Thessaly (UTH)](https://www.uth.gr/en) (represented by the [Automatic Control and Autonomous Systems Laboratory](http://control.mie.uth.gr/)) and [ETH Zürich](https://www.ethz.ch) (represented by the [Institute for Transport Planning and Systems](https://www.ivt.ethz.ch)). The project is supported by the [Center of Research, Innovation and Excellence (CRIE)](https://www.uth.gr/en/research/units/center-research-innovation-and-excellence-crie) of the [University of Thessaly](https://www.uth.gr/en).
 
-The following people are involved in the project:
+The following people are currently involved in the project:
 1. [Konstantinos Ampountolas](http://mie.uth.gr/Ampountolas.html) (Associate Professor, Department of Mechanical Engineering, UTH)
 2. [Michail Makridis](https://www.michailmakridis.com/) (Senior Researcher, IVT, ETH Zürich)
 3. [Anastastios Kouvelas](http://www.ivt.ethz.ch/en/people/profile.anastasios-kouvelas.html) (Director Traffic Engineering and Control, IVT, ETH Zürich)
@@ -16,6 +16,16 @@ Only a few test-campaigns had been carried out worldwide studying the ACC impact
 The project campaigningACC will attempt to identify commonalities and differences between human driving behaviors and novels ones introduced by partially automated vehicles. This campaign will attempt to collect data primarily for human drivers. ACC-driven data are also welcome in case the specifications of the vehicle allow it.
 
 ## Record, save, and upload vehicle trajectory data
+
+The application that is used to collect data is called [Phyphox](https://phyphox.org) and you can download it free of charge from the following links depending on the operation system of your mobile phone:
+- **Android users:** [https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox)
+- **iOS users:** [https://apps.apple.com/us/app/phyphox/id1127319693?l=de&ls=1](https://apps.apple.com/us/app/phyphox/id1127319693?l=de&ls=1)
+
+Phyphox is a free-to-use collection of tools that exploits the sensors present in the mobile phone in order to conduct physical experiments. Common sensors available in recent mobile phones are accelererometers, gyroscopes, GPS signal, magnetometers and others. Depending on the description of the experiment, the user can select to record only the sensors that are needed for the specific experiment.
+
+**Caution:** It is important to select the minimum number of sensors because the more sensors are used the lower the data recording frequency will be.
+
+This [document]() describes in detail the necessary steps to record, save and upload vehicle trajectory data to the system. 
 
 ## References
 1. SAE International, 2018. _J3016B: Taxonomy and definitions for terms related to driving automation systems for on-road motor vehicles_. **SAE International**. Available online: [https://www.sae.org/standards/content/j3016_201806](https://www.sae.org/standards/content/j3016_201806).
