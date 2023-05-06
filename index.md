@@ -23,7 +23,7 @@ The application that is used to collect data is called [Phyphox](https://phyphox
 
 Phyphox is a free-to-use collection of tools that exploits the sensors present in the mobile phone in order to conduct physical experiments. Common sensors available in recent mobile phones are accelererometers, gyroscopes, GPS signal, magnetometers and others. Depending on the description of the experiment, the user can select to record only the sensors that are needed for the specific experiment.
 
-**Caution:** It is important to select the minimum number of sensors because the more sensors are used the lower the data recording frequency will be.
+> blockquote **Caution:** It is important to select the minimum number of sensors because the more sensors are used the lower the data recording frequency will be.
 
 Check out our [documentation]() that describes in detail the necessary steps to record, save and upload vehicle trajectory data to the system. 
 
