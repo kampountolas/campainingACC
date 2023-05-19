@@ -28,10 +28,11 @@ Phyphox is a free-to-use collection of tools that exploits the sensors present i
 Check out our [documentation]() that describes in detail the necessary steps to record, save and upload vehicle trajectory data to the system. 
 
 ## Publications
-The following publications
+The following peer-reviewed publications resulting from the project: 
 * Apostolakis, Th., Makridis, M., Kouvelas, A., Ampountolas, K., __Commercially implemented adaptive cruise control systems are not evil__, *102nd Annual Meeting of the Transportation Research Board (TRB 2023)*, Jan. 8-12, 2023, Washington, DC, USA.
 * Apostolakis, Th., Makridis, M., Kouvelas, A., Ampountolas, K., __Energy-based assessment of commercial adaptive cruise control systems__, in *Transportation Systems Technology and Integrated Management*, R. K. Upadhyay, S. K. Sharma, V. Kumar, and H. Valera, Eds. London, UK: Springer Nature, 2023. DOI: [10.1007/978-981-99-1517-0_4](https://www.doi.org/10.1007/978-981-99-1517-0_4).
 * Ampountolas, K., __The unscented Kalman filter for nonlinear parameter identification of adaptive cruise control systems__, *IEEE Transactions on Intelligent Vehicles*, Accepted, 2023. DOI: [10.1109/TIV.2023.3272660](https://www.doi.org/10.1109/TIV.2023.3272660)
+* Apostolakis, Th., Makridis, M., Kouvelas, A., Ampountolas, K., __Energy-based Assessment and Driving Behavior of ACC Systems and Humans Inside Platoons__, IEEE Transactions on Intelligent Transportation Systems, under review, 2023.
 
 ## Support or Contact
 
