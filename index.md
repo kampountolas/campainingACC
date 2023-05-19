@@ -4,8 +4,8 @@
 
 The following people are currently involved in the project:
 1. [Konstantinos Ampountolas](http://mie.uth.gr/Ampountolas.html) (Associate Professor, Department of Mechanical Engineering, UTH)
-2. [Michail Makridis](https://www.michailmakridis.com/) (Senior Researcher, IVT, ETH Zürich)
-3. [Anastastios Kouvelas](http://www.ivt.ethz.ch/en/people/profile.anastasios-kouvelas.html) (Director Traffic Engineering and Control, IVT, ETH Zürich)
+2. [Anastastios Kouvelas](http://www.ivt.ethz.ch/en/people/profile.anastasios-kouvelas.html) (Director, Traffic Engineering and Control, IVT, ETH Zürich)
+3. [Michail Makridis](https://www.michailmakridis.com/) (Deputy Director and Senior Research Scientist, Traffic Engineering and Control, IVT, ETH Zürich)
 4. Theocharis Apostolakis (PhD candidate at UTH)
 
 ## Background
